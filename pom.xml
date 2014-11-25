@@ -9,10 +9,18 @@
   <packaging>jar</packaging>
   <name>teste</name>
   
+<!--
   <scm>
     <connection>scm:git:git@github.com:andersonlf/maven-release-plugin-demo.git</connection>
     <developerConnection>scm:git:git@github.com:andersonlf/maven-release-plugin-demo.git</developerConnection>
     <url>scm:git:git@github.com:andersonlf/maven-release-plugin-demo.git</url>
+  </scm>
+-->
+
+  <scm>
+    <connection>scm:git:https://github.com/andersonlf/maven-release-plugin-demo.git</connection>
+    <developerConnection>scm:git:https://github.com/andersonlf/maven-release-plugin-demo.git</developerConnection>
+    <url>scm:git:https://github.com/andersonlf/maven-release-plugin-demo.git</url>
   </scm>
 
   <dependencies>

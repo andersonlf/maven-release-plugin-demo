@@ -17,9 +17,9 @@
   -->
 
   <scm>
-    <url>https://github.com/andersonlf/maven-release-plugin-demo</url>
-    <connection>scm:git:git@github.com:andersonlf/maven-release-plugin-demo.git</connection>
-    <developerConnection>scm:git:git@github.com:andersonlf/maven-release-plugin-demo.git</developerConnection>
+    <url>https://github.com/andersonlfeitosa/maven-release-plugin-demo</url>
+    <connection>scm:git:git@github.com:andersonlfeitosa/maven-release-plugin-demo.git</connection>
+    <developerConnection>scm:git:git@github.com:andersonlfeitosa/maven-release-plugin-demo.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 

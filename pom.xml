@@ -4,7 +4,7 @@
 
   <groupId>teste</groupId>
   <artifactId>teste</artifactId>
-  <version>3.0.0-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>teste</name>
 
@@ -46,11 +46,6 @@
   </build>
 
   <dependencies>
-    <dependency>
-      <groupId>br.com.sippe.architecture.framework.microservice</groupId>
-      <artifactId>sippe-service-registry</artifactId>
-      <version>1.0.0-SNAPSHOT</version>
-    </dependency>
     <dependency>
       <groupId>javax</groupId>
       <artifactId>javaee-api</artifactId>
